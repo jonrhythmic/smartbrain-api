@@ -1,0 +1,26 @@
+{
+  "name": "smartbrain-api",
+  "version": "1.0.0",
+  "description": "Backend for the Smartbrain app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonrhythmic/smartbrain-api.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "express",
+    "backend",
+    "smartbrain"
+  ],
+  "author": "Jon A. Grenness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonrhythmic/smartbrain-api/issues"
+  },
+  "homepage": "https://github.com/jonrhythmic/smartbrain-api#readme"
+}
